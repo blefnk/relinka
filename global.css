@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 4px;
+    padding: 4px;
+}
+
+body {
+    font-family: sans-serif;
+    background: #121212;
+    color: #eee;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(16, 255, 167);
+}
+
+hr {
+    margin: 0;
+    padding: 0;
+}
+
+label {
+    cursor: pointer;
+}
+
+sup {
+    font-size: 0.8em;
+    color: #aaa;
+    position: relative;
+}
+
+a {
+    color: rgb(8, 144, 255);
+    text-decoration: none;
+}
