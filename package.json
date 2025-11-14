@@ -1,0 +1,30 @@
+{
+  "name": "relinka",
+  "version": "0.1.0",
+  "author": "reliverse",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "description": "Relinka Templates Collection",
+  "scripts": {
+    "dev": "bun --filter '*' dev"
+  },
+  "workspaces": {
+    "packages": [
+      "apps/*",
+      "packages/*"
+    ],
+    "catalog": {
+      "typescript": "^5.7.2",
+      "@types/bun": "^1.3.0"
+    }
+  },
+  "devDependencies": {
+    "turbo": "^2.6.1",
+    "@reliverse/dler": "^2.0.28"
+  },
+  "packageManager": "bun@1.3.2",
+  "engines": {
+    "bun": ">=1.3.0"
+  }
+}

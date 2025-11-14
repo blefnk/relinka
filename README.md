@@ -23,19 +23,19 @@
 
 Relinka ships with a growing set of templates. They are perfectly suited for both building from scratch or integrating into existing projects.
 
-- **Task Management** (work-in-progress)
-- **Landing Page** (work-in-progress)
-- **Blog** (work-in-progress)
-- **Portfolio** (work-in-progress)
-- **Documentation** (work-in-progress)
-- **Dashboard & Admin Panel** (work-in-progress)
+- **Landing Page**: Relinka's home page (work-in-progress).
+- **Task Management**: (work-in-progress).
+- **Blog**: (work-in-progress).
+- **Portfolio**: (work-in-progress).
+- **Documentation**: (work-in-progress).
+- **Dashboard & Admin Panel**: (work-in-progress).
 
 ## Separate Repo Templates
 
 The following templates are too huge for this repo. They are separated into their own repos.
 
-- **E‑commerce**: [Relivator](https://github.com/blefnk/relivator-nextjs-template) v2+ (work-in-progress)
-- **AI Chat**: [Versator](https://github.com/blefnk/versator-nextjs-template) v2+ (work-in-progress)
+- **E‑commerce**: [Relivator](https://github.com/blefnk/relivator-nextjs-template) v2+ (work-in-progress).
+- **AI Chat**: [Versator](https://github.com/blefnk/versator-nextjs-template) v2+ (work-in-progress).
 
 ## Getting Started
 
@@ -69,7 +69,7 @@ You'll have Relinka running before your coffee cools down. Then pick a template,
 
 Relinka isn't just another template repo. It's a **collaborative framework** where developers and dreamers shape an evolving library of templates — usable by anyone, anywhere.
 
-You can **use** it. You can **improve** it. You can **evolve** it. Together, we grow the **Reliverse**. *Let Relinka awaken. Let it evolve*.
+You can **use** it. You can **improve** it. You can **evolve** it. Together, we grow the **Reliverse**. _Let Relinka awaken. Let it evolve_.
 
 ## License
 
